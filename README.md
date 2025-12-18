@@ -13,7 +13,7 @@ Most simulated peak fascicle velocities across all muscles and targets were with
 Murine experimental paradigms to understand fusimotor regulation of reflexes in the forelimb must identify both movement targets to use, and muscles to record from. Our study identifies both, and also shows that fascicular velocities are relatively slow for 500 ms movements. We also confirm predictions that 3D forelimb movements induce target-dependent complex fascicular velocities that are useful to study the fusimotor system.
 
 ![alt text](https://github.com/19990314/Mouse-Forelimb-Muscleskeletal-Modeling.git/PolarGraph/fig_export/polar_graph.png)
-
+![screenshot](PolarGraph/fig_export/polar_graph.png)
 Figure 1. Maximum normalized velocity (Lo/s) for top 8 muscles for 100 Monte Carlo simulated trajectories. 
 
 
