@@ -60,6 +60,6 @@ Shuting Chen1, †, Frank Gu2, †, Nancy Shao2, †, Anisa Torres2, †, Franci
 3Division of Biokinesiology and Physical Therapy, University of Southern California, Los Angeles, CA, USA.
 †Authors contributed equally
 
-##Acknowledgements 
+## Acknowledgements 
 The authors would like to thank Grace Niyo, Ph.D. Student at the Valero Lab at the University of Southern California (USC) Viterbi School of Engineering and BME/BKN 504 Teaching Assistant, for her contribution to our simulation work. 
 
