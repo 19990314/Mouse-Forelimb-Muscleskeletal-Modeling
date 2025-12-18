@@ -1,6 +1,6 @@
 # During 3D center-out reaching movement of the mouse forelimb, fascicular velocities are greatly affected by target location and can at times exhibit both eccentric and concentric contractions within a movement
 
-# Introduction 
+## Introduction 
 The fusimotor system is critical for limb movement [3]. Murine models help understand mismodulation of stretch reflexes relevant to spasticity in neurological conditions such as stroke [1]. Therefore, there is a need to quantify fascicular velocities for the mouse forelimb to inform experimental protocols for muscle mechanics [2].
 
 # Methods 
