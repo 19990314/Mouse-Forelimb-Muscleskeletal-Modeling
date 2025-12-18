@@ -1,0 +1,763 @@
+[2025-12-17 18:43:07.845] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:07.845] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:07.845] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:07.845] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:07.845] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:07.846] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:07.846] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:21.695] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:21.696] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:21.696] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:21.696] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:21.696] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:21.696] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:21.696] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:23.718] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:23.719] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:23.719] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:23.719] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:23.719] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:23.719] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:23.719] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:25.662] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:25.663] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:25.663] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:25.663] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:25.663] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:25.663] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:25.663] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:27.608] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:27.609] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:27.609] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:27.609] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:27.609] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:27.609] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:27.609] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:41.651] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:41.651] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:41.651] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:41.651] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:41.651] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:41.651] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:41.651] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:41.875] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:41.875] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:41.875] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:41.875] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:41.875] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:41.875] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:41.875] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:42.075] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:42.075] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:42.075] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:42.075] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:42.075] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:42.075] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:42.075] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:42.260] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:42.261] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:42.261] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:42.261] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:42.261] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:42.261] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:42.261] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:42.448] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:42.448] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:42.448] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:42.448] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:42.448] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:42.448] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:42.448] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:42.639] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:42.639] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:42.639] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:42.639] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:42.639] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:42.639] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:42.639] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:42.826] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:42.827] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:42.827] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:42.827] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:42.827] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:42.827] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:42.827] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:43.031] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:43.031] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:43.031] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:43.031] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:43.031] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:43.031] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:43.031] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:43.220] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:43.220] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:43.220] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:43.220] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:43.220] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:43.220] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:43.220] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:43.408] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:43.408] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:43.408] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:43.408] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:43.408] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:43.408] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:43.408] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:43.597] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:43.598] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:43.598] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:43.598] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:43.598] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:43.598] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:43.598] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:43.783] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:43.783] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:43.783] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:43.783] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:43.783] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:43.783] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:43.783] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:43.969] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:43.969] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:43.969] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:43.969] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:43.969] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:43.969] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:43.969] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:44.158] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:44.158] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:44.158] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:44.158] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:44.158] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:44.158] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:44.158] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:44.350] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:44.350] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:44.350] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:44.350] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:44.350] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:44.350] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:44.350] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:44.538] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:44.538] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:44.538] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:44.538] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:44.538] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:44.539] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:44.539] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:44.732] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:44.732] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:44.732] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:44.732] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:44.732] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:44.732] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:44.732] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:44.955] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:44.955] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:44.955] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:44.955] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:44.955] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:44.955] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:44.955] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:45.148] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:45.148] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:45.148] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:45.148] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:45.148] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:45.148] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:45.148] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:45.345] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:45.345] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:45.345] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:45.345] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:45.345] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:45.345] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:45.345] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:45.536] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:45.536] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:45.536] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:45.536] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:45.536] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:45.536] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:45.536] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:45.727] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:45.727] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:45.727] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:45.727] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:45.727] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:45.727] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:45.727] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:45.915] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:45.915] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:45.915] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:45.915] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:45.915] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:45.915] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:45.915] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:46.104] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:46.105] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:46.105] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:46.105] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:46.105] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:46.105] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:46.105] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:46.294] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:46.294] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:46.294] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:46.294] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:46.294] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:46.295] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:46.295] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:46.486] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:46.486] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:46.486] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:46.486] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:46.486] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:46.486] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:46.486] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:46.675] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:46.675] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:46.675] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:46.675] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:46.675] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:46.675] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:46.675] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:46.864] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:46.864] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:46.864] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:46.864] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:46.864] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:46.864] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:46.864] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:47.054] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:47.055] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:47.055] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:47.055] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:47.055] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:47.055] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:47.055] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:47.243] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:47.243] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:47.243] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:47.243] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:47.243] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:47.243] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:47.244] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:47.432] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:47.432] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:47.432] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:47.432] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:47.432] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:47.433] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:47.433] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:47.622] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:47.622] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:47.622] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:47.622] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:47.622] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:47.622] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:47.622] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:47.813] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:47.813] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:47.813] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:47.813] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:47.813] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:47.813] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:47.813] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:48.003] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:48.003] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:48.003] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:48.003] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:48.003] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:48.003] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:48.003] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:48.195] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:48.195] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:48.195] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:48.195] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:48.195] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:48.195] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:48.195] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:48.381] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:48.381] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:48.381] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:48.381] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:48.381] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:48.381] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:48.381] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:48.572] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:48.572] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:48.572] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:48.572] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:48.572] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:48.572] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:48.572] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:48.761] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:48.761] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:48.761] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:48.761] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:48.761] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:48.761] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:48.761] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:48.948] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:48.948] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:48.948] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:48.948] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:48.948] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:48.948] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:48.948] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:49.140] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:49.140] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:49.140] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:49.140] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:49.140] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:49.140] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:49.140] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:49.329] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:49.329] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:49.329] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:49.329] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:49.329] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:49.329] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:49.329] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:49.520] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:49.520] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:49.520] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:49.520] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:49.520] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:49.520] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:49.520] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:49.715] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:49.715] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:49.715] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:49.715] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:49.715] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:49.715] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:49.715] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:49.908] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:49.908] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:49.908] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:49.908] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:49.908] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:49.908] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:49.908] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:50.100] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:50.101] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:50.101] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:50.101] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:50.101] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:50.101] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:50.101] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:50.295] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:50.295] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:50.295] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:50.295] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:50.295] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:50.295] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:50.295] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:50.494] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:50.494] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:50.494] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:50.494] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:50.494] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:50.494] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:50.494] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:50.682] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:50.682] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:50.682] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:50.682] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:50.682] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:50.682] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:50.682] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:50.870] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:50.870] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:50.870] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:50.870] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:50.870] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:50.870] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:50.870] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:51.060] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:51.060] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:51.060] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:51.060] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:51.060] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:51.060] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:51.060] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:51.248] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:51.248] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:51.248] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:51.248] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:51.248] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:51.248] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:51.248] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:51.438] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:51.438] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:51.438] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:51.438] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:51.438] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:51.438] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:51.438] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:51.630] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:51.631] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:51.631] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:51.631] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:51.631] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:51.631] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:51.631] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:51.816] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:51.816] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:51.816] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:51.816] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:51.817] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:51.817] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:51.817] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:52.006] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:52.006] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:52.006] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:52.006] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:52.006] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:52.006] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:52.006] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:52.196] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:52.197] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:52.197] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:52.197] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:52.197] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:52.197] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:52.197] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:52.387] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:52.387] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:52.387] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:52.387] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:52.387] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:52.387] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:52.387] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:52.575] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:52.576] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:52.576] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:52.576] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:52.576] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:52.576] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:52.576] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:52.765] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:52.765] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:52.765] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:52.765] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:52.765] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:52.765] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:52.765] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:52.952] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:52.952] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:52.952] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:52.952] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:52.952] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:52.952] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:52.952] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:53.146] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:53.146] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:53.146] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:53.146] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:53.146] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:53.146] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:53.146] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:53.337] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:53.338] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:53.338] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:53.338] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:53.338] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:53.338] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:53.338] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:53.524] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:53.524] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:53.524] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:53.524] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:53.524] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:53.524] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:53.524] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:53.713] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:53.713] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:53.714] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:53.714] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:53.714] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:53.714] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:53.714] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:53.902] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:53.903] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:53.903] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:53.903] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:53.903] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:53.903] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:53.903] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:54.095] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:54.095] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:54.095] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:54.095] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:54.095] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:54.095] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:54.095] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:54.286] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:54.286] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:54.286] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:54.286] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:54.286] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:54.286] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:54.286] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:54.475] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:54.475] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:54.475] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:54.475] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:54.475] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:54.475] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:54.475] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:54.661] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:54.661] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:54.661] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:54.661] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:54.661] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:54.661] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:54.661] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:54.850] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:54.850] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:54.850] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:54.850] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:54.850] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:54.850] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:54.850] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:55.038] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:55.038] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:55.038] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:55.038] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:55.038] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:55.038] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:55.038] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:55.228] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:55.228] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:55.228] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:55.228] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:55.228] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:55.228] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:55.228] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:55.417] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:55.417] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:55.417] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:55.417] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:55.417] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:55.417] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:55.417] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:55.607] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:55.607] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:55.607] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:55.607] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:55.607] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:55.607] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:55.607] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:55.797] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:55.797] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:55.797] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:55.798] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:55.798] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:55.798] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:55.798] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:55.990] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:55.990] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:55.990] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:55.990] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:55.990] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:55.990] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:55.990] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:56.179] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:56.179] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:56.179] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:56.179] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:56.179] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:56.179] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:56.179] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:56.369] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:56.369] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:56.369] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:56.369] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:56.369] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:56.369] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:56.369] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:56.561] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:56.561] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:56.561] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:56.561] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:56.561] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:56.561] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:56.561] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:56.753] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:56.753] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:56.753] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:56.753] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:56.753] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:56.753] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:56.753] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:56.940] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:56.940] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:56.940] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:56.940] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:56.940] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:56.940] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:56.940] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:57.128] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:57.128] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:57.128] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:57.128] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:57.128] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:57.128] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:57.128] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:57.317] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:57.317] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:57.317] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:57.317] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:57.317] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:57.317] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:57.317] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:57.510] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:57.510] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:57.510] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:57.510] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:57.510] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:57.510] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:57.510] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:57.699] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:57.699] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:57.699] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:57.699] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:57.699] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:57.699] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:57.699] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:57.888] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:57.888] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:57.888] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:57.888] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:57.888] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:57.888] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:57.888] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:58.075] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:58.075] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:58.075] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:58.075] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:58.075] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:58.075] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:58.075] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:58.265] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:58.265] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:58.265] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:58.265] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:58.265] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:58.265] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:58.265] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:58.452] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:58.452] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:58.452] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:58.452] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:58.452] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:58.452] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:58.452] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:58.641] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:58.641] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:58.641] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:58.641] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:58.641] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:58.641] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:58.641] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:58.829] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:58.829] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:58.829] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:58.829] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:58.830] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:58.830] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:58.830] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:59.021] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:59.021] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:59.021] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:59.021] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:59.021] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:59.021] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:59.021] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:59.209] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:59.209] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:59.209] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:59.209] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:59.209] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:59.209] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:59.209] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:59.397] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:59.398] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:59.398] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:59.398] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:59.398] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:59.398] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:59.398] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:59.584] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:59.584] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:59.584] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:59.584] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:59.584] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:59.584] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:59.584] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:59.773] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:59.774] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:59.774] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:59.774] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:59.774] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:59.774] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:59.774] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:43:59.961] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:43:59.961] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:43:59.961] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:43:59.961] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:43:59.961] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:43:59.961] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:43:59.961] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:44:00.149] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:44:00.149] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:44:00.149] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:44:00.149] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:44:00.149] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:44:00.149] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:44:00.149] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:44:00.336] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:44:00.336] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:44:00.336] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:44:00.336] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:44:00.336] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:44:00.336] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:44:00.336] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:44:00.524] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:44:00.524] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:44:00.524] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:44:00.524] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:44:00.524] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:44:00.524] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:44:00.524] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:44:00.712] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:44:00.713] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:44:00.713] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:44:00.713] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:44:00.713] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:44:00.713] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:44:00.713] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:44:16.044] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:44:16.044] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:44:16.044] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:44:16.044] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:44:16.044] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:44:16.044] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:44:16.044] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:46:13.796] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:46:13.796] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:46:13.797] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:46:13.797] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:46:13.797] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:46:13.797] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:46:13.797] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
+[2025-12-17 18:46:44.732] [info] Loaded model subject01 from file scaled_mouse.osim
+[2025-12-17 18:46:44.732] [warning] Couldn't find file 'GeomJan01242023\Bones_Scapula.stl'.
+[2025-12-17 18:46:44.732] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Humerus.stl'.
+[2025-12-17 18:46:44.733] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Ulna.stl'.
+[2025-12-17 18:46:44.733] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Hand.stl'.
+[2025-12-17 18:46:44.733] [warning] Couldn't find file 'GeomJan01242023\Bone_Segments_Radius.stl'.
+[2025-12-17 18:46:44.733] [warning] Couldn't find file 'GeomJan01242023\Bone_Segmentation_Segment_8.stl'.
